@@ -1,0 +1,8 @@
+#.gitignore
+
+#Ignore files in requirements.txt
+requirements.txt
+
+
+# Virtual Environment Folders
+venv/
